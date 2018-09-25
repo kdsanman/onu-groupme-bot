@@ -41,7 +41,7 @@ Our python server(Bot/Bot.py) is the main server that runs our whole bot.
  The keys, group id, and authentication tokens need to be filled in prior to starting  the program. These can be set up in the config.json file.
  To run the bot:
  ```
- git clone https://github.com/C1-SoftwareEngineeringSummit/team3.git
+ git clone https://github.com/kdsanman/onu-groupme-bot.git
  cd Bot
  python3 bot.py
  ```
