@@ -42,6 +42,7 @@ Our python server(Bot/Bot.py) is the main server that runs our whole bot.
  To run the bot:
  ```
  git clone https://github.com/kdsanman/onu-groupme-bot.git
+ cd onu-groupme-bot
  cd Bot
  python3 bot.py
  ```
